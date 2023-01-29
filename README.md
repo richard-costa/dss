@@ -1,2 +1,1 @@
-# programming
-Repository for programming notes
+Repository for data sciente related.
