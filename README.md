@@ -1,1 +1,1 @@
-Repository for data sciente related stuff.
+Repository for data sciente stuff.
